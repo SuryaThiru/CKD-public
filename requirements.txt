@@ -1,0 +1,15 @@
+scipy==1.4.1
+matplotlib==3.1.0
+numpy==1.18.1
+tqdm==4.36.1
+pandas==0.25.0
+tensorflow_gpu==2.1.0
+keras==2.3.1
+scikit_learn==0.22.1
+tensorflow==2.1.0
+joblib==1.0.1
+feather-format==0.4.0
+lightgbm==3.1.1
+seaborn==0.10.0
+h5py==2.10.0
+mlxtend==0.18.0
